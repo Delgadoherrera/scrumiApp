@@ -1,0 +1,10 @@
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de configuración específicos del editor
+.vscode/
+.idea/
+
+# Ignorar archivos de dependencias y compilación
+node_modules/
+dist/
